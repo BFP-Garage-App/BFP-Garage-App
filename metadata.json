@@ -1,0 +1,6 @@
+{
+  "name": "BFP GARAGE - Gestion Complète de Garage Automobile",
+  "description": "Application professionnelle de gestion de garage automobile : clients, véhicules, réceptions, interventions, pièces sans stock, planning atelier 4 ponts et base de connaissances pièces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
